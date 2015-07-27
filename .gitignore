@@ -2,7 +2,6 @@
 Thumbs.db
 ehthumbs.db
 
-
 # Folder config file
 Desktop.ini
 
@@ -17,9 +16,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
-# User additions
-.bin/
 
 # =========================
 # Operating System Files
